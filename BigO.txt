@@ -1,1 +1,10 @@
+#any coder, given enough time can solve a problem. Big O can help us distinguish bad code from great code. 
+
+Good Code: 
+1. Readable: is it generally clean? can others understand your code? 
+2. Scalable: Big O notation allow us to measure code that can scale. How long an algorithm takes to run. Which one is better than the other when it comes to scale.
+
+Calculate how many operations it takes in a function. 
+
+
 
